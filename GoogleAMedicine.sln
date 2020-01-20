@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Medicine", ".", "{FCCBBB2A-2AA2-4F30-8898-61D224544572}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/GoogleAMedicine"
+		Debug.AspNetCompiler.PhysicalPath = "..\Medicine\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GoogleAMedicine\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GoogleAMedicine"
+		Release.AspNetCompiler.PhysicalPath = "..\Medicine\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GoogleAMedicine\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1036"
+		SlnRelativePath = "..\Medicine\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCBBB2A-2AA2-4F30-8898-61D224544572}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{FCCBBB2A-2AA2-4F30-8898-61D224544572}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15E72B7-A1C8-41F9-972A-C3D7CB2115CD}
+	EndGlobalSection
+EndGlobal
